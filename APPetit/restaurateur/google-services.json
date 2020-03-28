@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "485841219839",
+    "firebase_url": "https://apptite-934e1.firebaseio.com",
+    "project_id": "apptite-934e1",
+    "storage_bucket": "apptite-934e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485841219839:android:ae24d5005742125c5c5cca",
+        "android_client_info": {
+          "package_name": "com.mad.appetit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485841219839-rub9srltssg3fkhj7vmev9trjcplu9of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0-jSRmDj8NMI2n6Rzq7E5e2CYHEnJL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485841219839-rub9srltssg3fkhj7vmev9trjcplu9of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485841219839:android:6a2dffec56fcbe3c5c5cca",
+        "android_client_info": {
+          "package_name": "com.mad.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485841219839-rub9srltssg3fkhj7vmev9trjcplu9of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0-jSRmDj8NMI2n6Rzq7E5e2CYHEnJL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485841219839-rub9srltssg3fkhj7vmev9trjcplu9of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485841219839:android:801005eb48841f7b5c5cca",
+        "android_client_info": {
+          "package_name": "com.mad.riders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485841219839-rub9srltssg3fkhj7vmev9trjcplu9of.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR0-jSRmDj8NMI2n6Rzq7E5e2CYHEnJL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485841219839-rub9srltssg3fkhj7vmev9trjcplu9of.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
