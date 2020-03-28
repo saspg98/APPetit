@@ -78,7 +78,7 @@ public class SignUp extends AppCompatActivity {
         FirebaseAuth auth = FirebaseAuth.getInstance();
 
         // Initialize Places.
-        Places.initialize(getApplicationContext(), "AIzaSyAAzAER-HprZhx5zvmEYIjVlJfYSHj2-G8");
+        Places.initialize(getApplicationContext(), "AIzaSyDR0-jSRmDj8NMI2n6Rzq7E5e2CYHEnJL8");
         // Create a new Places client instance.
         PlacesClient placesClient = Places.createClient(this);
         // Set the fields to specify which types of place data to return.
@@ -245,7 +245,7 @@ public class SignUp extends AppCompatActivity {
         }
 
         if(surname.trim().length() == 0){
-            error_msg = "Fill address";
+            error_msg = "Fill surname";
             return false;
         }
 

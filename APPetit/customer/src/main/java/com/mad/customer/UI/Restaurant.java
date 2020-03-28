@@ -495,8 +495,8 @@ public class Restaurant extends Fragment {
                                                         snapshot.child("info").child("name").getValue().toString(),
                                                         snapshot.child("info").child("addr").getValue().toString(),
                                                         snapshot.child("info").child("cuisine").getValue().toString(),
-                                                        snapshot.child("info").child("phone").getValue().toString(),
                                                         snapshot.child("info").child("openingTime").getValue().toString(),
+                                                        snapshot.child("info").child("phone").getValue().toString(),
                                                         "null");
                                             }
                                         }
